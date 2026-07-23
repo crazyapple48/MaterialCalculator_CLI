@@ -1,0 +1,14 @@
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\bin\Debug\net10.0\MaterialCalculator_CLI.exe
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\bin\Debug\net10.0\MaterialCalculator_CLI.deps.json
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\bin\Debug\net10.0\MaterialCalculator_CLI.runtimeconfig.json
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\bin\Debug\net10.0\MaterialCalculator_CLI.dll
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\bin\Debug\net10.0\MaterialCalculator_CLI.pdb
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.AssemblyInfoInputs.cache
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.AssemblyInfo.cs
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.dll
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\refint\MaterialCalculator_CLI.dll
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.pdb
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.genruntimeconfig.cache
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\ref\MaterialCalculator_CLI.dll

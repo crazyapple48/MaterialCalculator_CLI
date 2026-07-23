@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialCalculator_CLI", "MaterialCalculator_CLI.csproj", "{64D60F6F-23DD-4E1C-89A5-60A26564E942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D60F6F-23DD-4E1C-89A5-60A26564E942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D60F6F-23DD-4E1C-89A5-60A26564E942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D60F6F-23DD-4E1C-89A5-60A26564E942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D60F6F-23DD-4E1C-89A5-60A26564E942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
