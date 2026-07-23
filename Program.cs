@@ -1,34 +1,29 @@
-﻿namespace MaterialCalculator_CLI;
+﻿using MaterialCalculator_CLI.CaseFormulas;
+
+namespace MaterialCalculator_CLI;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Type Something: ");
+       Console.WriteLine("x: ");
+       
+       var x = double.Parse(Console.ReadLine());
+       
+       Console.WriteLine("I: ");
+       
+       var I = double.Parse(Console.ReadLine());
+       
+       Console.WriteLine("l: ");
+       
+       var l = double.Parse(Console.ReadLine());
+       
+       Console.WriteLine("w: ");
+       
+       var w = double.Parse(Console.ReadLine());
 
-        var input = Console.ReadLine();
-        
-        var values = input?.Split(' ').ToList();
-
-        var valuesf = new List<float>();
-        
-        if (values is null || values.Count < 1) return;
-        foreach (var value in values)
-        {
-            if (float.TryParse(value, out var number))
-            {
-                valuesf.Add(number);
-            }
-        }
-        
-        var result = CalculateMmax(valuesf[0], valuesf[1],  valuesf[2],  valuesf[3]);
-        
-        Console.WriteLine(result);
-    }
-
-    static float CalculateMmax(float b, float l, float p, float e)
-    {
-        var result = (b / l) * p * e;
-        return result;
+       var result = SimpleBeamUniformLoad.Mmax(w, l);
+       
+       Console.WriteLine(result);
     }
 }

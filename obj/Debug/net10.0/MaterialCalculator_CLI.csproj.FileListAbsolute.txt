@@ -12,3 +12,4 @@ C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\refint\Materia
 C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.pdb
 C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.genruntimeconfig.cache
 C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\ref\MaterialCalculator_CLI.dll
+C:\Users\crazy\Coding\cs\MaterialCalculator_CLI\obj\Debug\net10.0\MaterialCalculator_CLI.sourcelink.json

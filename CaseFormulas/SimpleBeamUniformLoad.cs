@@ -18,7 +18,7 @@ public static class SimpleBeamUniformLoad
 
     public static double Mmax(double w, double l)
     {
-        return ((w * l) * (w * l)) / 8;
+        return (w * Math.Pow(l, 2)) / 8;
     }
 
     public static double DeflectionMaxAtCenter(double w, double l, double I)
