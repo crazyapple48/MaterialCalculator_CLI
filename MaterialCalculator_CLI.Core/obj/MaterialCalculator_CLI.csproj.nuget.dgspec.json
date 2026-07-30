@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.csproj": {}
+    "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.csproj": {
+    "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.csproj",
+        "projectUniqueName": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
         "projectName": "MaterialCalculator_CLI",
-        "projectPath": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.csproj",
+        "projectPath": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
         "packagesPath": "C:\\Users\\crazy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\obj\\",
+        "outputPath": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialCalculator_CLI", "MaterialCalculator_CLI.csproj", "{64D60F6F-23DD-4E1C-89A5-60A26564E942}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialCalculator_CLI.Core", "MaterialCalculator_CLI.Core/MaterialCalculator_CLI.csproj", "{64D60F6F-23DD-4E1C-89A5-60A26564E942}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
