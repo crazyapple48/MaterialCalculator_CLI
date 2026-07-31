@@ -1,4 +1,6 @@
-﻿namespace MaterialCalculator_CLI.CaseFormulas;
+﻿using System.Runtime.InteropServices.JavaScript;
+
+namespace MaterialCalculator_CLI.CaseFormulas;
 
 public static class SimpleBeamUniformLoad
 {
@@ -8,9 +10,8 @@ public static class SimpleBeamUniformLoad
     /// l is the length of beam between reaction points.
     /// "I" is the moment of inertia of the beam. 
     /// </summary>
-    
-    private static double _modulusOfElasticity = 2.9 * (10 ^ 7);
-    
+    private static readonly double ModulusOfElasticity = 2.9 * Math.Pow(10, 7);
+
     public static double ReactionAtVmax(double w, double l)
     {
         return (w * l) / 2;
@@ -23,7 +24,7 @@ public static class SimpleBeamUniformLoad
 
     public static double DeflectionMaxAtCenter(double w, double l, double I)
     {
-        return (5 * w * Math.Pow(l, 4)) / (384 * _modulusOfElasticity * I);
+        return (5 * w * Math.Pow(l, 4)) / (384 * ModulusOfElasticity * I);
     }
 
     public static double VerticalShearAtDistance(double w, double x, double l)
@@ -33,11 +34,11 @@ public static class SimpleBeamUniformLoad
 
     public static double MomentAtDistance(double w, double x, double l)
     {
-        return ((w * l) / 2) * (l - x);
+        return ((w * x) / 2) * (l - x);
     }
 
-    public static double DefelctionAtDistance(double w, double x, double I, double l)
+    public static double DeflectionAtDistance(double w, double x, double l, double I)
     {
-        return ((w * x) / (24 * _modulusOfElasticity * I)) * (Math.Pow(l, 3) - (2 * l * Math.Pow(x, 2)) + Math.Pow(x, 3));
+        return ((w * x) / (24 * ModulusOfElasticity * I)) * (Math.Pow(l, 3) - (2 * l * Math.Pow(x, 2)) + Math.Pow(x, 3));
     }
 }

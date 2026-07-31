@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj": {}
+    "/mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Core/MaterialCalculator_CLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj": {
+    "/mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Core/MaterialCalculator_CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
+        "projectUniqueName": "/mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Core/MaterialCalculator_CLI.csproj",
         "projectName": "MaterialCalculator_CLI",
-        "projectPath": "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
-        "packagesPath": "C:\\Users\\crazy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\obj\\",
+        "projectPath": "/mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Core/MaterialCalculator_CLI.csproj",
+        "packagesPath": "/home/kevin/.nuget/packages/",
+        "outputPath": "/mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Core/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/kevin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/home/kevin/.dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/kevin/.dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
