@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v5MbKpkLPiY=",
+  "dgSpecHash": "9U8Lvmfz2UE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Tests\\MaterialCalculator_CLI.Tests.csproj",
+  "projectFilePath": "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Tests\\MaterialCalculator_CLI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crazy\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\crazy\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
