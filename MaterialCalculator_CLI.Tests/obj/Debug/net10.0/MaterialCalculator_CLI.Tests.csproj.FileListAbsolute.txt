@@ -105,10 +105,10 @@ C:/Users/crazy/Coding/cs/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/obj
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/.msCoverageSourceRootsMapping_MaterialCalculator_CLI.Tests
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/CoverletSourceRootsMapping_MaterialCalculator_CLI.Tests
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/xunit.abstractions.dll
-/mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/xunit.runner.visualstudio.testadapter.dll
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/MaterialCalculator_CLI.deps.json
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/MaterialCalculator_CLI.runtimeconfig.json
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/MaterialCalculator_CLI
+/mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/xunit.runner.visualstudio.testadapter.dll
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/MaterialCalculator_CLI.Tests.deps.json
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/MaterialCalculator_CLI.Tests.runtimeconfig.json
 /mnt/Code/Coding/csharp/MaterialCalculator_CLI/MaterialCalculator_CLI.Tests/bin/Debug/net10.0/MaterialCalculator_CLI.Tests.dll

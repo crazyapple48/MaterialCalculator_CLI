@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaterialCalculator_CLI.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3efe6617defdae568f0d30d90567c7a6d71ea2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28ba568d2e7fedda225dd91fb93da892186361c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaterialCalculator_CLI.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaterialCalculator_CLI.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

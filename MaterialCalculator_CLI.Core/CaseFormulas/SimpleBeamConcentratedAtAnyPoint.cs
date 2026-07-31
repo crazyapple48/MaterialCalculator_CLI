@@ -2,7 +2,7 @@
 
 public static class SimpleBeamConcentratedAtAnyPoint
 {
-    private static double _modulusOfElasticity = 2.9 * (10 ^ 7);
+    private static readonly double ModulusOfElasticity = 2.9 * Math.Pow(10, 7);
     
     public static double Reaction1(double p, double b, double l)
     {
@@ -19,23 +19,18 @@ public static class SimpleBeamConcentratedAtAnyPoint
         return (p * a * b) / l;
     }
 
-    public static double DeflectionMaxAtX(double p, double l, double a, double b, double I)
+    public static double DeflectionMaxAtX(double p, double l, double a, double b, double I) // Look at book for how this is defined
     {
-        return ((p * a * b) * (a + (2 * b)) * Math.Sqrt((3 * a) * (a + (2 * b)))) / (27 * _modulusOfElasticity * I * l);
+        return ((p * a * b) * (a + (2 * b)) * Math.Sqrt((3 * a) * (a + (2 * b)))) / (27 * ModulusOfElasticity * I * l);
     }
 
     public static double MomentAtDistance(double p, double x, double b, double l)
     {
         return (p * b * x) / l;
     }
-
-    public static double DeflectionAtPointOfLoad(double p, double a, double b, double I, double l)
-    {
-        return (p * Math.Pow(a, 2) * Math.Pow(b, 2)) / (3 * _modulusOfElasticity * I * l);
-    }
     
-    public static double DeflectionAtDistance(double p, double x, double b, double I, double l)
+    public static double DeflectionAtDistance(double p, double x, double b, double l,  double I)
     {
-        return ((p * b * x) / (6 * _modulusOfElasticity * I * l)) * (Math.Pow(l, 2) - Math.Pow(b, 2) - Math.Pow(x, 2));
+        return ((p * b * x) / (6 * ModulusOfElasticity * I * l)) * ((l * l) - (b * b) - (x * x));
     }
 }
