@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
+      "projectUniqueName": "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
       "projectName": "MaterialCalculator_CLI",
-      "projectPath": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
+      "projectPath": "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\MaterialCalculator_CLI.csproj",
       "packagesPath": "C:\\Users\\crazy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crazy\\Coding\\cs\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\obj\\",
+      "outputPath": "C:\\Users\\crazy\\Coding\\c#\\MaterialCalculator_CLI\\MaterialCalculator_CLI.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,10 +33,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -51,10 +53,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -72,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
