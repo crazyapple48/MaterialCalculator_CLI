@@ -28,6 +28,11 @@ public static class SimpleBeamConcentratedAtAnyPoint
     {
         return (p * b * x) / l;
     }
+
+    public static double DeflectionAtPointOfLoad(double p, double a, double b, double l, double I)
+    {
+        return ((p * (Math.Pow(a, 2)) * (Math.Pow(b, 2))) / (3 * ModulusOfElasticity * I * l));
+    }
     
     public static double DeflectionAtDistance(double p, double x, double b, double l,  double I)
     {

@@ -54,6 +54,14 @@ public class SimpleBeamConcentratedAtAnyPointTests
     }
 
     [Fact]
+    public void DeflectionAtPointOfLoad_ReturnsDouble()
+    {
+        var result = Math.Round(SimpleBeamConcentratedAtAnyPoint.DeflectionAtPointOfLoad(_p, _a, _b, _l, _i), 4);
+
+        Assert.Equal(0.0054, result);
+    }
+
+    [Fact]
     public void DeflectionAtDistance_ReturnsDouble()
     {
         var result = Math.Round(SimpleBeamConcentratedAtAnyPoint.DeflectionAtDistance(_p, _x, _b, _l, _i), 4);
