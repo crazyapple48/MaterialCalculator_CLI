@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d137bca_002D4b2e_002D4c9a_002D8c6a_002Dae0dfdbac62c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CantileverBeamUniformLoadTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::C411E40D-A7E6-4326-B949-7196DC192692::net10.0::MaterialCalculator_CLI.Tests.CantileverBeamUniformLoadTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=72b1e67c_002D664f_002D4b75_002Db60e_002D9bedd95a6f60/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CantileverBeamUniformLoadTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::C411E40D-A7E6-4326-B949-7196DC192692::net10.0::MaterialCalculator_CLI.Tests.CantileverBeamUniformLoadTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
