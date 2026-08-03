@@ -31,7 +31,7 @@ public class CantileverBeamUniformLoadTests
     [Fact]
     public void DeflectionMaxAtFreeEnd_ReturnsDouble()
     {
-        var result = Math.Round(CantileverBeamUniformLoad.DeflectionMaxAtFreeEnd(_w, _l, _i), 4);
+        var result = Math.Round(CantileverBeamUniformLoad.DeflectionMax(_w, _l, _i), 4);
 
         Assert.Equal(0.2651, result);
     }

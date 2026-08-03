@@ -20,7 +20,7 @@ public class CantileverBeamUniformLoad
         return (w * Math.Pow(l, 2)) / 2;
     }
 
-    public static double DeflectionMaxAtFreeEnd(double w, double l, double I)
+    public static double DeflectionMax(double w, double l, double I)
     {
         return (w * Math.Pow(l, 4)) / (8 * ModulusOfElasticity * I);
     }
